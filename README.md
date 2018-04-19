@@ -1,5 +1,3 @@
-
-
 # CSS Issue Bot 9000
 
 Bleep bloop, please help Issue Bot 9000 solve all CSS validation errors using the W3C Jigsaw CSS validator.
@@ -25,4 +23,4 @@ Bleep bloop, please help Issue Bot 9000 solve all CSS validation errors using th
 
 [W3C CSS Validator - Validate Direct Input](http://jigsaw.w3.org/css-validator/#validate_by_input)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/css-issue-bot-9000' title='CSS Issue Bot 9000'>CSS Issue Bot 9000</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T1 CSS Issue Bot 9000</p>
